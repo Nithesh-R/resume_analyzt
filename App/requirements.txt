@@ -47,7 +47,8 @@ plac==1.1.3
 plotly==5.10.0
 preshed==3.0.8
 protobuf==3.20.1
-pyarrow==9.0.0
+# Removed the specific version for pyarrow to install the latest
+pyarrow
 pycparser==2.21
 pycryptodome==3.15.0
 pydantic==1.9.2
@@ -93,3 +94,5 @@ watchdog==2.1.9
 zipp==3.8.1
 cython==0.29.36
 setuptools==57.0.0
+# Added setuptools_scm to install the latest version
+setuptools_scm
