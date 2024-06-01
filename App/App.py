@@ -1,5 +1,7 @@
 ###### Packages Used ######
 import streamlit as st # core package used in this project
+import nltk
+nltk.download('stopwords')
 import pandas as pd
 import base64, random
 import time,datetime
@@ -24,8 +26,7 @@ from streamlit_tags import st_tags
 from PIL import Image
 # pre stored data for prediction purposes
 from Courses import ds_course,web_course,android_course,ios_course,uiux_course,resume_videos,interview_videos
-import nltk
-nltk.download('stopwords')
+
 
 
 ###### Preprocessing functions ######
