@@ -5,7 +5,7 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://www.linkedin.com/in/nithesh-r/">Nithesh</a>
+      <a href="https://www.linkedin.com/in/nithesh-r-/">Nithesh</a>
      </small>
   </p>
   <small align="justify"> A Project made for just Learning and Fun .
