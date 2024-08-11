@@ -76,6 +76,27 @@ vi. To improve this tool by getting feedbacks
   </ul>
 </details>
 
+## Setup & Installation: -
+
+Create a virtual environment and activate it (recommended)
+
+Open your command prompt and change your project directory to AI-Resume-Analyzer and run the following command
+
+python -m venv venvapp
+
+cd venvapp/Scripts
+
+activate
+Downloading packages from requirements.txt inside App folder
+
+cd../..
+
+cd App
+
+pip install -r requirements.txt
+
+python -m spacy download en_core_web_sm
+
 <!-- Features -->
 
 ## Features
