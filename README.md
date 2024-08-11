@@ -77,10 +77,14 @@ vi. To improve this tool by getting feedbacks
 </details>
 
 ## Setup & Installation: -
+To run this project, perform the following tasks 😨
+
+Download the code file manually or via git
+https://github.com/Nithesh-R/resume_analyzt.git
 
 Create a virtual environment and activate it (recommended)
 
-Open your command prompt and change your project directory to AI-Resume-Analyzer and run the following command
+Open your command prompt and change your project directory to resume_analyzt and run the following command
 
 python -m venv venvapp
 
