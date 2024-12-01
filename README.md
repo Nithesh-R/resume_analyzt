@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>RESUME ANALYZt</h1>
+  <h1>RESUME ANALYZT</h1>
   <p>A  Resume Analysis Tool and can also used for Predictions and Recommendations</p>
   <!--links-->
   <p>
